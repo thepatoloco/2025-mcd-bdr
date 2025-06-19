@@ -38,4 +38,4 @@ PostgreSQL es un SGBD que implementa varias características de la Programación
 
 #### Bibliografía
 
-- PostgreSQL y MySQL: diferencia entre los sistemas de administración de bases de datos relacionales (RDBMS). AWS. (s. f.). Amazon Web Services, Inc. https://aws.amazon.com/es/compare/the-difference-between-mysql-vs-postgresql/
+- PostgreSQL y MySQL: diferencia entre los sistemas de administración de bases de datos relacionales (RDBMS). AWS. (s. f.). Amazon Web Services, Inc. <https://aws.amazon.com/es/compare/the-difference-between-mysql-vs-postgresql/>
